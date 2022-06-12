@@ -40,7 +40,7 @@ function fazerPergunta() {
   setTimeout(function(){
     elementoResposta.style.opacity = 0;
     botaoPerguntar.removeAttribute('disabled')
-  }, 5000)
+  }, 7000)
 }
 
 function limparPergunta(){
